@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.4"
+  },
+  "name": "apis",
+  "description": "Trabalhando com APIs.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandro-araujo-silva/APIs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandro-araujo-silva/APIs/issues"
+  },
+  "homepage": "https://github.com/leandro-araujo-silva/APIs#readme"
+}
